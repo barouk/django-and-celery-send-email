@@ -1,5 +1,5 @@
 1-create venv and install requirements.txt
-
+2-install rabbitmq server
 2-python manage.py migrate
 
 
